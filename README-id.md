@@ -195,7 +195,7 @@ Terkadang kelas tidak dalam sesi jadi Anda harus menunggu beberapa bulan, jadi A
 ## Proses Interview dan Preparasi Wawancara Secara Umum
 
 - [X] [ABC: Selalu Menjadi Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
-- [ ] [Papan tulis (Whiteboarding)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [] [Papan tulis (Whiteboarding)](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
 - [ ] [Memperlihatkan Perekrutan Teknologi](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cara Mendapatkan Pekerjaan di Big 4:
     - [ ] [Cara Mendapatkan Pekerjaan di Big 4 - Amazon, Facebook, Google & Microsoft (video)](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -260,7 +260,7 @@ Ini adalah daftar pendek yang saya gunakan. Ini disingkat untuk menghemat waktu 
 
 - [ ] [Elements of Programming Interviews (versi C++)](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
 - [ ] [Elements of Programming Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
-- [ ] Elements of Programming Interviews (Java version)
+- [X] Elements of Programming Interviews (Java version)
     - [book](https://www.amazon.com/Elements-Programming-Interviews-Java-Insiders/dp/1517435803/)
     - [Companion Project - Method Stub and Test Cases for Every Problem in the Book](https://github.com/gardncl/elements-of-programming-interviews)
 
