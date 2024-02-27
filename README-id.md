@@ -296,7 +296,7 @@ Jika anda memiliki rekomendasi yang lebih baik untuk C++, tolong beritahu saya. 
 
 Atau:
 
-- [ ] [Struktur Data dan Algoritma di Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
+- [X] [Struktur Data dan Algoritma di Java](https://www.amazon.com/Data-Structures-Algorithms-Michael-Goodrich/dp/1118771338/)
     - oleh Goodrich, Tamassia, Goldwasser
     - digunakan sebagai teks opsional untuk kursus pengenalan CS di UC Berkeley
     - lihat laporan buku saya pada versi Python dibawah. Buku ini mencakup topik-topik yang sama.
@@ -454,7 +454,7 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
         - [Array Dinamis (video)](https://www.coursera.org/lecture/data-structures/dynamic-arrays-EwbnV)
         - [Array Bergerigi (video)](https://www.youtube.com/watch?v=1jtrQqYpt7g)
     - [ ] Menerapkan vektor (array yang bisa berubah dengan ukuran otomatis):
-        - [ ] Berlatih coding menggunakan array dan pointer, dan matematika pointer untuk melompat ke indeks daripada menggunakan pengindeksan.
+        - [X] Berlatih coding menggunakan array dan pointer, dan matematika pointer untuk melompat ke indeks daripada menggunakan pengindeksan.
         - [ ] Array data mentah baru dengan memori yang dialokasikan
             - dapat mengalokasikan array int di bawah tenda, hanya saja tidak menggunakan fitur-fiturnya
             - start dengan 16, atau jika angka awal lebih besar, gunakan pangkat 2 - 16, 32, 64, 128
@@ -481,7 +481,7 @@ Menulis kode pada papan tulis atau kertas, bukan komputer. Uji dengan beberapa s
 
 - ### Linked Lists
     - [ ] Deskripsi:
-        - [ ] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
+        - [X] [Singly Linked Lists (video)](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
         - [ ] [CS 61B - Linked Lists 1 (video)](https://archive.org/details/ucberkeley_webcast_htzJdKoEmO0)
         - [ ] [CS 61B - Linked Lists 2 (video)](https://archive.org/details/ucberkeley_webcast_-c4I3gFYe3w)
         - [ ] [[Review] Linked lists in 4 minutes (video)](https://youtu.be/F8AbOfQwl1c)
